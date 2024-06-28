@@ -1,5 +1,5 @@
 # Authentication Django 5
-Авторизация на Django.
+Авторизация на Django. Восстановление пароля по E-mail. Вход в профиль по логину или E-mail.
 
 # Технологии
 - [Python 3.11](https://www.python.org/)
