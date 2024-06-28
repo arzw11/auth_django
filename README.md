@@ -5,7 +5,7 @@
 - [Python 3.11](https://www.python.org/)
 - [Django 5.0](https://www.djangoproject.com/)
 
-# setting.py
+# settings.py
 AUTHENTICATION_BACKENDS = [
     'django.contrib.auth.backends.ModelBackend',
     'users.authentication.EmailAuthBackend',
